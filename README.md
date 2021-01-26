@@ -1,4 +1,4 @@
-# SpotifyPlaylistSplitterByGenre
+# Spotify Playlist Splitter
 
 This project is a little fun project I worked on during the winter break of 2021. 
 
